@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import logo from './logo.svg'
 import "./DarkMode.css";
 import './App.css'
